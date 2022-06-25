@@ -24,8 +24,11 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 6.Custom domains to provide branded customizations to your app.
 
-Project Link:
+Project Link: https://orange-coast-037c66010.1.azurestaticapps.net/contact.html
 
 # Sample images of the project :
 
-
+![Screenshot (15)](https://user-images.githubusercontent.com/100035865/175785132-95d80bb7-c4f8-4637-a20f-45956c6b179a.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/100035865/175785141-49ec25bf-3513-49a4-aff0-a18da799836d.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/100035865/175785130-2f360a9f-313b-425a-8624-43ba7f23c607.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/100035865/175785147-8a4f22f3-31d7-4044-a2cf-1b6980f805ac.png)
